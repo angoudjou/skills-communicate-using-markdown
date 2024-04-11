@@ -3,3 +3,9 @@
 ### Header 3 not that big
 
 ![My Yogitocat](https://octodex.github.com/images/yogitocat.png)
+
+## Code block
+``` javascript
+var person = 'Persone one';
+var course = 'Unit One';
+```
